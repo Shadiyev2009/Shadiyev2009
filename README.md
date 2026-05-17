@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Shadiyev 👋
 
-<!--
-**Shadiyev2009/Shadiyev2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Fullstack Developer (React | Node.js | Django)
 
-Here are some ideas to get you started:
+I am a passionate developer focused on building modern, scalable web applications. I bridge the gap between robust backend logic and intuitive frontend design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 My Tech Stack:
+
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), **React.js**, Vite
+- **Backend:** **Node.js** (Express), **Python** (Django)
+- **Data:** SQL, PostgreSQL
+- **Design:** Modern UI/UX implementation
+
+---
+
+### 📈 Current Goals:
+- 🏗 Building complex Fullstack projects.
+- ✍️ Sharing my journey on Telegram.
+- 🌟 Mastering Clean Architecture.
+
+---
+
+### 📫 Connect with me:
+- **Telegram:** [Doniyor | Fullstack Path](https://t.me/doniyor_log)
+- **LinkedIn:** [My Profile](www.linkedin.com/in/doniyor-shadiyev-5a966240b)
+
+---
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shadiyev2009&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadiyev2009&layout=compact&theme=tokyonight)
