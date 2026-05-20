@@ -1,76 +1,113 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="40px"> Hi, I'm Doniyor | Shadiyev2009
+````md
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Building%20The%20Future-cyan?style=for-the-badge&logo=rocket" />
-  <img src="https://komarev.com/ghpvc/?username=Shadiyev2009&label=PROFILE%20VIEWS&color=cyan&style=for-the-badge" alt="Views" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Doniyor+Shadiyev;Fullstack+Developer;React+•+Node.js+•+Django;Building+Futuristic+Digital+Experiences" />
 
-```💡 "Code is like humor. When you have to explain it, it’s bad."```
+<br>
 
----
+<img src="https://img.shields.io/badge/STATUS-BUILDING_THE_FUTURE-00F7FF?style=for-the-badge&logo=rocket&logoColor=black"/>
+<img src="https://komarev.com/ghpvc/?username=Shadiyev2009&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
 
-## ⚡ ABOUT ME
-* 🛠️ **Fullstack Developer** turning coffee into clean, scalable code.
-* 🌌 **Tech Stack:** Specialized in **React.js**, **Node.js**, and **Python (Django)**.
-* 🚀 **Current Mission:** Mastering system architecture and building aesthetic UI/UX.
-* 🛰️ **Location:** Uzbekistan.
+</div>
 
 ---
 
-## 🛠️ TECH STACK & TOOLS
+# <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="35"> About Me
 
-### 💻 FRONTEND
-<p align="left">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### ⚙️ BACKEND
-<p align="left">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-</p>
-
-### 💾 DATABASES & DEV TOOLS
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+```js
+const doniyor = {
+    location: "Uzbekistan",
+    role: "Fullstack Developer",
+    languages: ["JavaScript", "Python"],
+    frontend: ["React.js", "TailwindCSS", "Vite"],
+    backend: ["Node.js", "Express.js", "Django"],
+    databases: ["PostgreSQL", "MySQL"],
+    currentlyLearning: ["System Design", "UI/UX Architecture"],
+    lifePhilosophy: "Code. Create. Innovate."
+};
+````
 
 ---
 
-## 📊 AUTOMATIC GITHUB STATS
+# ⚡ Tech Stack
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shadiyev2009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00ffff&icon_color=00ffff&text_color=ffffff" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadiyev2009&layout=compact&theme=tokyonight&hide_border=true&title_color=00ffff&text_color=ffffff" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shadiyev2009&theme=tokyonight&hide_border=true&ring=00ffff&fire=00ffff&currStreakLabel=00ffff" />
-</p>
+### 🚀 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite"/>
 
 ---
 
-## 🌐 CONNECT WITH ME
-<p align="left">
-  <a href="https://t.me/doniyor_dev" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/doniyor-shadiyev" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+### ⚙ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,python"/>
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
-</p>
+
+### 💾 Database & Tools
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shadiyev2009&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadiyev2009&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
+
+<br><br>
+
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shadiyev2009&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+
+</div>
+
+---
+
+# 🌌 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shadiyev2009&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://t.me/doniyor_dev">
+<img src="https://img.shields.io/badge/Telegram-00F7FF?style=for-the-badge&logo=telegram&logoColor=black"/>
+</a>
+
+<a href="https://www.linkedin.com/in/doniyor-shadiyev">
+<img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+# 🧠 Quote Of The Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer"/>
+
+</div>
+```
